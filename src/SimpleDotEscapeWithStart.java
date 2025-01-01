@@ -2,7 +2,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.util.Random;
-
+//
 class SimpleDotEscape extends JPanel implements ActionListener, KeyListener {
     private int dotX = 200, dotY = 550, score = 0;
     private int obstacleX = 100, obstacleY = 0;
